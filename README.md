@@ -13,8 +13,6 @@
   <br/>
 </div>
 
-### I'm currently working on improving my skills. Stay tuned for updates!
-
 ## Check out my <a href="https://marcel-lakotta.de/">Portfolio</a>, to see my abilities in action.
 
 <h3>Find me on:</h3>
