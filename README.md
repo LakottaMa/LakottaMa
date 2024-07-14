@@ -16,6 +16,14 @@
 
 <hr/>
 
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/LakottaMa/LakottaMa/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
 ### I'm currently working on improving my skills. Stay tuned for updates!
 
 ## Check out my <a href="https://marcel-lakotta.de/">Portfolio</a>, to see my abilities in action.
